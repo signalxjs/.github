@@ -5,7 +5,7 @@
 
   **Build modern apps with TypeScript, TSX and reactive signals.**
 
-  [![npm](https://img.shields.io/npm/v/@sigx/core?label=%40sigx%2Fcore)](https://www.npmjs.com/package/@sigx/core)
+  [![npm](https://img.shields.io/npm/v/sigx.svg?label=sigx&color=blue)](https://www.npmjs.com/package/sigx)
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
   [![Docs](https://img.shields.io/badge/docs-signalxjs.github.io-0aa)](https://signalxjs.github.io/docs)
   [![X / Twitter](https://img.shields.io/badge/follow-%40signalxjs-1da1f2?logo=x)](https://x.com/signalxjs)
