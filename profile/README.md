@@ -7,7 +7,7 @@
 
   [![npm](https://img.shields.io/npm/v/sigx.svg?label=sigx&color=blue)](https://www.npmjs.com/package/sigx)
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-  [![Docs](https://img.shields.io/badge/docs-signalxjs.github.io-0aa)](https://signalxjs.github.io/docs)
+  [![Docs](https://img.shields.io/badge/docs-signalxjs.github.io-0aa)](https://signalxjs.github.io/)
   [![X / Twitter](https://img.shields.io/badge/follow-%40signalxjs-1da1f2?logo=x)](https://x.com/signalxjs)
 
 </div>
@@ -25,7 +25,7 @@ npm create sigx@latest
 ```
 
 That's it — pick a template, install, and start hacking.
-Full guide → **[signalxjs.github.io/docs](https://signalxjs.github.io/docs)**
+Full guide → **[signalxjs.github.io](https://signalxjs.github.io/)**
 
 ## 📦 The ecosystem
 
@@ -58,11 +58,11 @@ Full guide → **[signalxjs.github.io/docs](https://signalxjs.github.io/docs)**
 | Package | Description |
 | --- | --- |
 | [**cli**](https://github.com/signalxjs/cli) | `npm create sigx@latest`, plugin discovery, platform commands |
-| [**docs**](https://github.com/signalxjs/docs) | Documentation source for [signalxjs.github.io/docs](https://signalxjs.github.io/docs) |
+| [**signalxjs.github.io**](https://github.com/signalxjs/signalxjs.github.io) | Documentation source for [signalxjs.github.io](https://signalxjs.github.io/) |
 
 ## 🌐 Community
 
-- **Docs** — <https://signalxjs.github.io/docs>
+- **Docs** — <https://signalxjs.github.io/>
 - **X / Twitter** — [@signalxjs](https://x.com/signalxjs)
 - **Discussions** — open one in any repo to share what you're building
 
