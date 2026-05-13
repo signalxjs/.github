@@ -21,7 +21,7 @@ terminal — all with TSX and full TypeScript inference.
 ## ⚡ Quickstart
 
 ```bash
-npm create sigx@latest
+npm create @sigx@latest
 ```
 
 That's it — pick a template, install, and start hacking.
@@ -57,7 +57,7 @@ Full guide → **[signalxjs.github.io](https://signalxjs.github.io/)**
 ### Tooling & Docs
 | Package | Description |
 | --- | --- |
-| [**cli**](https://github.com/signalxjs/cli) | `npm create sigx@latest`, plugin discovery, platform commands |
+| [**cli**](https://github.com/signalxjs/cli) | `npm create @sigx@latest`, plugin discovery, platform commands |
 | [**signalxjs.github.io**](https://github.com/signalxjs/signalxjs.github.io) | Documentation source for [signalxjs.github.io](https://signalxjs.github.io/) |
 
 ## 🌐 Community
