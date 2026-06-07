@@ -25,7 +25,7 @@ npm create @sigx@latest
 ```
 
 That's it — pick a template, install, and start hacking.
-Full guide → **[signalxjs.github.io](https://signalxjs.github.io/)**
+Full guide → **[sigx.dev](https://sigx.dev/)**
 
 ## 📦 The ecosystem
 
