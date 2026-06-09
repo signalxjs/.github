@@ -7,7 +7,7 @@
 
   [![npm](https://img.shields.io/npm/v/sigx.svg?label=sigx&color=blue)](https://www.npmjs.com/package/sigx)
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-  [![Docs](https://img.shields.io/badge/docs-signalxjs.github.io-0aa)](https://signalxjs.github.io/)
+  [![Docs](https://img.shields.io/badge/docs-sigx.dev-0aa)](https://sigx.dev/)
   [![X / Twitter](https://img.shields.io/badge/follow-%40signalxjs-1da1f2?logo=x)](https://x.com/signalxjs)
 
 </div>
@@ -25,44 +25,13 @@ npm create @sigx@latest
 ```
 
 That's it — pick a template, install, and start hacking.
-Full guide → **[sigx.dev](https://sigx.dev/)**
 
-## 📦 The ecosystem
+## 🌐 Explore
 
-### Core
-| Package | Description |
-| --- | --- |
-| [**core**](https://github.com/signalxjs/core) | Reactive component framework — signals, reactivity, TSX |
-| [**router**](https://github.com/signalxjs/router) | Type-safe router with SSR, reactive hooks, plugins |
-| [**store**](https://github.com/signalxjs/store) | State management built on signals |
+Guides, the API reference, and the full package catalog all live on the docs site:
 
-### Rendering
-| Package | Description |
-| --- | --- |
-| [**ssg**](https://github.com/signalxjs/ssg) | Static site generator + SSR islands, file-based routing, MDX |
-| [**ssr-islands**](https://github.com/signalxjs/ssr-islands) | Selective hydration via `client:*` directives |
-
-### Platforms
-| Package | Description |
-| --- | --- |
-| [**lynx**](https://github.com/signalxjs/lynx) | Native iOS/Android apps with Lynx — runtime, CLI plugin, modules |
-| [**terminal**](https://github.com/signalxjs/terminal) | TUI framework with TSX support |
-
-### UI
-| Package | Description |
-| --- | --- |
-| [**daisyui**](https://github.com/signalxjs/daisyui) | DaisyUI components with full theme support |
-| [**monaco-editor**](https://github.com/signalxjs/monaco-editor) | Pluggable Monaco editor wrapper + Vite plugin |
-
-### Tooling & Docs
-| Package | Description |
-| --- | --- |
-| [**cli**](https://github.com/signalxjs/cli) | `npm create @sigx@latest`, plugin discovery, platform commands |
-| [**signalxjs.github.io**](https://github.com/signalxjs/signalxjs.github.io) | Documentation source for [signalxjs.github.io](https://signalxjs.github.io/) |
-
-## 🌐 Community
-
-- **Docs** — <https://signalxjs.github.io/>
+- **Docs & ecosystem** — <https://sigx.dev/>
+- **Native mobile (Lynx)** — <https://sigx.dev/lynx/>
 - **X / Twitter** — [@signalxjs](https://x.com/signalxjs)
 - **Discussions** — open one in any repo to share what you're building
 
